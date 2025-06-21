@@ -265,7 +265,8 @@ int main() {
 
 
 // CornerDBMaker Testing --------------------------------------------------------------------------
-    string fileName = "C:\\Users\\user\\CLionProjects\\rubiks-cube-solver\\Databases\\cornerDepth5V1.txt";
+    string fileName = "Databases/cornerDepth5V1.txt";
+
 
 //    Code to create Corner Database
 //    CornerDBMaker dbMaker(fileName, 0x99);
